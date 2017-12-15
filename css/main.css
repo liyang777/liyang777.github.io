@@ -453,24 +453,24 @@ body {
     left: 76%;
     bottom: 11%;
 }
-.swiper-slide.seven .sevenmap{
-    width: 80%;
-    height: 272px;
-    border: #ccc solid 1px;
-    margin-top: 25%;
-    margin-left: 10%;
-    font-size: 2vw;
-}
+
 .swiper-slide.seven .sevenzi1{
     /* position: absolute; */
     width: 78%;
-    margin-top: 17%;
+    margin-top: 10%;
     margin-left: 12%;
     text-align: center;
-    font-size: 1vw;
+    font-size: 2vw;
     line-height: 4vw;
 }
-
+.ditu{
+    width: 90%;
+    height: 40%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 15%;
+    border:1px solid #999;
+}
 
 
 /*第7屏结束*/
