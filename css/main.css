@@ -162,7 +162,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .twozi{
     margin: 0 auto;
@@ -210,7 +210,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .threezi{
     margin: 0 auto;
@@ -254,7 +254,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .fourzi{
     margin: 0 auto;
@@ -302,7 +302,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .fivezi{
     margin: 0 auto;
@@ -359,7 +359,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .sixzi{
     margin: 0 auto;
@@ -432,7 +432,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .sevenzi{
     margin: 0 auto;
@@ -492,7 +492,7 @@ body {
     position: absolute;
     width: 112%;
     bottom: -1%;
-    z-index: -1;
+    z-index: 1;
 }
 .swiper-slide .eightzi{
     margin: 0 auto;
